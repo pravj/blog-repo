@@ -1,0 +1,7 @@
+baseurl = "https://hackpravj.com/"
+languageCode = "en-us"
+title = "hack(pravj)"
+pygmentsUseClasses = true
+[params]
+	github_post_title = "Information Dynamics on the GitHub Network"
+	ecommerce_post_title = "Breaking into the Indian E-commerce"

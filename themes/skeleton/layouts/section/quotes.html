@@ -1,0 +1,34 @@
+{{ partial "header.html" . }}
+<body>
+      {{ partial "singletop.html" . }}
+
+  <div class="container">
+    <div class="row">
+      <h1 class="post-title"> <a href="/quotes/">Quotes</a> </h1>
+
+      <div class="post-content">
+        <p>Not very much into quotes now a days. Keeping them here to maintain the sanity of this blog's Git history. ¯\_(ツ)_/¯. Still, if you find any quote lacking or having a misplaced attribution please let me
+        <a target="_blank" href="https://twitter.com/hackpravj">know</a>.</p>
+
+        <ul id="quotes-list">
+           {{ range .Data.Pages }}
+          <li>
+              <h1><i class="icon-quote-left"></i></h1>
+              {{ .Content }} - <span class="author">{{ .Params.author }}</span>
+          </li>
+           {{ end }}
+        </ul>
+      </div>
+      
+    </div>
+      </div>
+      {{ partial "footer.html" . }}
+    </div>
+  </div>
+  {{ partial "analytics.html" . }}
+
+    </div>
+  </div>
+  {{ partial "bodyend.html" . }}
+</body>
+</html>
