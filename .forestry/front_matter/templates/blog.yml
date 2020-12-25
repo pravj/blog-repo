@@ -32,5 +32,10 @@ fields:
     min: 
     max: 
   label: Aliases
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
 pages:
 - content/blog/how-to-read-paul-graham-s-essays.md
