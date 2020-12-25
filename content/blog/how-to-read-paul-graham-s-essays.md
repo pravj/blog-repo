@@ -33,13 +33,13 @@ Paul has shared a list of his favorite essays on Twitter. You can find the listi
 
 Here are some of the top-performing articles in terms of backlinks (based on a free MOZ report).
 
-* [Maker's Schedule, Manager's Schedule](https://www.paulgraham.com/makersschedule.html)
-* [Why Nerds are Unpopular](https://www.paulgraham.com/nerds.html)
-* [Beating the Averages](https://www.paulgraham.com/avg.html)
-* [Do Things that Don't Scale](https://www.paulgraham.com/ds.html)
-* [A Plan for Spam](https://www.paulgraham.com/spam.html)
-* [Startup = Growth](https://www.paulgraham.com/growth.html)
-* [Great Hackers](https://www.paulgraham.com/gh.html)
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+* [Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html)
+* [Beating the Averages](http://www.paulgraham.com/avg.html)
+* [Do Things that Don't Scale](http://www.paulgraham.com/ds.html)
+* [A Plan for Spam](http://www.paulgraham.com/spam.html)
+* [Startup = Growth](http://www.paulgraham.com/growth.html)
+* [Great Hackers](http://www.paulgraham.com/gh.html)
 
 #### D. Most referred in his own essays
 
