@@ -25,5 +25,12 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
 pages:
 - content/blog/how-to-read-paul-graham-s-essays.md
