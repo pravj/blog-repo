@@ -4,6 +4,7 @@ date = 2020-11-21T18:30:00Z
 description = "Paul Graham's essays categorised on different parameters, to help you read them."
 tags = ["Paul Graham", "Essays", "Startups", "Reading"]
 title = "How to read Paul Graham's essays?"
+url = "/blog/how-to-read-paul-graham-essays/"
 
 +++
 Before you start reading this piece, I want to inform that the question presented here is equivalent to a mathematical problem that has multiple possible answers. The answer depends on you; how do you arrive on one of his articles, and what are you seeking.
