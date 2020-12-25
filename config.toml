@@ -1,4 +1,5 @@
 theme = "skeleton"
+relativeURLs = true
 baseurl = "https://hackpravj.com/"
 languageCode = "en-us"
 title = "hack(pravj)"
