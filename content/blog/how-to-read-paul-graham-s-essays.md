@@ -8,16 +8,19 @@ url = "/blog/how-to-read-paul-graham-essays/"
 
 +++
 Before you start reading this piece, I want to inform that the question presented here is equivalent to a mathematical problem that has multiple possible answers. The answer depends on you; how do you arrive on one of his articles, and what are you seeking.
+
+Sounds like a zen proverb, right?
+
+Yes. Take my “personal” answer/solution to this question for example.
+
+Looking in the past, most of the time I’ve found myself reading the essays when I’m sitting in MTR on my own trying to spend some time off, amidst the constant background noise of people ordering the same three items over and over.
+
+And that’s exactly where I found this question.
+
+I was wondering if they can be presented in a manner that is relevant to some readers. In this article, I've collated the essays into **five different categories**.
+
     
-    Sounds like a zen proverb, right?
     
-    Yes. Take my “personal” answer/solution to this question for example.
-    
-    Looking in the past, most of the times I’ve found myself reading the essays when I’m sitting in MTR on my own trying to spend some time off, amidst the constant background noise of people ordering the same three items over and over.
-    
-    And that’s exactly where I found this question.
-    
-    I was wondering if they can be presented in a manner which is relevant to some readers. In this article, I've collated the essays in **five different categories**.
     
     ### A. Chronological order
     This one is easy. You can just go to the [essays section](http://www.paulgraham.com/articles.html) of his website and start from the very first essay he wrote. Obviously, You will have to scroll to the end.
