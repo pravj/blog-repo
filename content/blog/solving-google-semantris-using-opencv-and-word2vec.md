@@ -17,6 +17,8 @@ There are 2 modes available in the game.
 
 Arcade mode requires the player to come up with associated words for certain words. You are supposed to think and enter as fast as you can before an increasing list of words fills your screen.
 
+![](/semantris-arcade.gif)
+
 **BLOCKS**
 
 Blocks is a turn-based game mode. You can take your time to come up with different types of clues and see which ones the game understands best.
@@ -33,7 +35,8 @@ Blocks is a turn-based game mode. You can take your time to come up with differe
 
 > In the following sections, we are going to dive into the working of the Semantris-Solver for both the game modes.
 
-####   
+#### 
+
 ARCADE
 
 A human player will use the following moves to play the arcade mode:
@@ -44,12 +47,12 @@ A human player will use the following moves to play the arcade mode:
 
 > Also, there are three types of theme colors in arcade mode.
 
-  
 You will realize that the theme color isn’t playing any role here, the game playing mechanism will remain the same if we change the theme color, what changes is the definition of the highlighted word.
 
 > A word is **highlighted** if it has a pointer shape left to it, “‎▶ **Ship**” in this case.
 
-#####   
+##### 
+
 COLOR SPACE CONVERSION
 
 ARCADE mode of Semantris-Solver starts with capturing the screenshot of the laptop screen and converts it into a gray-scale image, agnostic of the actual color.
@@ -72,7 +75,6 @@ The cropped image is converted into text using [Tesseract OCR](https://web.archi
 
 [Word2Vec pre-trained on Google News corpus](https://web.archive.org/web/20201111220617/https://hackpravj.com/blog/solving-semantris-opencv-word2vec/Word2Vec%20pre-trained%20on%20Google%20News%20corpus) is used as a word embedding model to find the [most similar](https://web.archive.org/web/20201111220617/https://radimrehurek.com/gensim/models/word2vec.html#gensim.models.word2vec.Word2Vec.most_similar) words (associated) for a given word.
 
-  
 In this case, it will return the **vessel** to enter as an associated word for the **ship** (_after removing morphologically similar words_). The program will enter this associated word and capture the updated game screen to continue.
 
 #### BLOCKS
@@ -90,7 +92,8 @@ You will realize that the color of a word-block is playing a significant role th
 
 > On top of this, there are three types of theme colors in blocks mode.
 
-#####   
+##### 
+
 COLOR PALETTE GENERATION
 
 This time we can’t convert the captured image into its gray-scale version. We need to know the color attributes to be able to distinguish between different word-blocks.
@@ -107,13 +110,12 @@ In other words, if we calculate the area of every connected-word-block-group (_w
 
 A word-block group can be considered a contour of that color; if it’s connected to more blocks with the same color, the contour’s area will be the sum of the connected word-blocks.
 
-  
 Contours are calculated (using OpenCV’s [findCountours](https://web.archive.org/web/20201111220617/https://docs.opencv.org/3.3.1/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a) function) for all the word-block colors separately and the one with the maximum area is selected.
 
-  
 We can select the maximum area contour by doing a bitwise-and operation between the captured screen and the contour mask.
 
-#####   
+##### 
+
 WORD DETECTION (Using Tesseract and Word2Vec)
 
 The contour image is converted into text using [Tesseract OCR](https://web.archive.org/web/20201111220617/https://github.com/tesseract-ocr/tesseract); in this case, it will give us **Garden**.
@@ -132,8 +134,8 @@ Given that it’s an invalid word suggestion, the Word2Vec model will not return
 >
 > I have created an [issue on the GitHub](https://web.archive.org/web/20201111220617/https://github.com/pravj/semantris-solver/issues/7) repository for the same, feel free to contribute if you like. 😄
 
-####   
-  
+#### 
+
 SOURCE CODE
 
 ##### [Semantris-Solver](https://web.archive.org/web/20201111220617/https://github.com/pravj/semantris-solver) (GitHub)
