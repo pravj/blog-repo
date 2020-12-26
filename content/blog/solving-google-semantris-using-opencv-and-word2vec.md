@@ -23,6 +23,8 @@ Arcade mode requires the player to come up with associated words for certain wor
 
 Blocks is a turn-based game mode. You can take your time to come up with different types of clues and see which ones the game understands best.
 
+![](/images/semantris-blocks.gif)
+
 > After playing for a while, I realized both the game modes are using [pattern recognition as the main game-play mechanism](https://web.archive.org/web/20201111220617/http://www.peachpit.com/articles/article.aspx?p=98123&seqNum=2). And that’s when I started thinking if the game-play can be automated.
 
 **TURNS OUT, IT CAN BE AUTOMATED**
