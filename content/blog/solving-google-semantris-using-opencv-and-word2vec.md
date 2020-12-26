@@ -17,7 +17,7 @@ There are 2 modes available in the game.
 
 Arcade mode requires the player to come up with associated words for certain words. You are supposed to think and enter as fast as you can before an increasing list of words fills your screen.
 
-![](/semantris-arcade.gif)
+![](/images/semantris-arcade.gif)
 
 **BLOCKS**
 
@@ -49,6 +49,8 @@ A human player will use the following moves to play the arcade mode:
 
 > Also, there are three types of theme colors in arcade mode.
 
+![](/images/semantris-arcade-theme-colors.jpg)
+
 You will realize that the theme color isn’t playing any role here, the game playing mechanism will remain the same if we change the theme color, what changes is the definition of the highlighted word.
 
 > A word is **highlighted** if it has a pointer shape left to it, “‎▶ **Ship**” in this case.
@@ -59,11 +61,15 @@ COLOR SPACE CONVERSION
 
 ARCADE mode of Semantris-Solver starts with capturing the screenshot of the laptop screen and converts it into a gray-scale image, agnostic of the actual color.
 
+![](/images/semantris-arcade-gray-scale.png)
+
 ##### TEMPLATE MATCHING
 
 Our next step will be to find the highlighted word in the captured image. OpenCV provides a method called [Template Matching](https://web.archive.org/web/20201111220617/https://docs.opencv.org/3.3.0/d4/dc6/tutorial_py_template_matching.html) for searching and finding the location of a template image in a larger image.
 
 We will use a cropped version of the pointer shape (▶) as a template image, to find its location in the captured screen.
+
+![](/images/semantris-arcade-selected-highlighted-word.png)
 
 ##### OPTICAL CHARACTER RECOGNITION
 
