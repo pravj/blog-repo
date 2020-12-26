@@ -39,3 +39,4 @@ fields:
   label: URL
 pages:
 - content/blog/how-to-read-paul-graham-s-essays.md
+- content/blog/solving-google-semantris-using-opencv-and-word2vec.md
