@@ -2,7 +2,6 @@
 aliases = []
 date = 2018-12-01T18:30:00Z
 description = "Semantris is a set of word association games powered by machine-learned, natural language understanding technology. This articles talks about a cheat code approach to solving the game using OpenCV and Machine-Learning hack."
-draft = true
 tags = ["Computer Vision", "Hack", "NLP", "ML", "OpenCV"]
 title = "Solving Google Semantris using OpenCV and Word2Vec"
 url = "/blog/solving-semantris-opencv-word2vec/"
