@@ -37,6 +37,11 @@ fields:
   config:
     required: false
   label: URL
+- name: pageimage
+  type: text
+  config:
+    required: false
+  label: PageImage
 pages:
 - content/blog/breaking-into-the-indian-e-commerce.md
 - content/blog/contributing-to-the-go-programming-language.md
