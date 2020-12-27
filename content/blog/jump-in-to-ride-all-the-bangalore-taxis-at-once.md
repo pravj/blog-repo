@@ -7,3 +7,4 @@ title = "Jump in to ride all the Bangalore taxis, at once"
 url = "/blog/bangalore-taxis/"
 
 +++
+> This article is being updated. Thank you for your patience.
