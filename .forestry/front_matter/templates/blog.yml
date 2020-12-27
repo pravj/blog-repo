@@ -38,6 +38,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/blog/breaking-into-the-indian-e-commerce.md
 - content/blog/contributing-to-the-go-programming-language.md
 - content/blog/how-to-read-paul-graham-s-essays.md
 - content/blog/information-dynamics-on-the-github-network.md
