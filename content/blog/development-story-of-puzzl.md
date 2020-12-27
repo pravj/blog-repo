@@ -7,4 +7,4 @@ title = "Development story of puzzl"
 url = "/blog/development-story-of-puzzl/"
 
 +++
-> This article is being update. Thank you for your patience.
+> This article is being update. Thanks for your patience.
