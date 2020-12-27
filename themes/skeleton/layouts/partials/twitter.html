@@ -3,4 +3,4 @@
 <meta name="twitter:creator" content="@hackpravj">
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{if .IsPage}}{{ .Description }}{{else}}{{.Site.Params.description}}{{end}}" />
-<meta name="twitter:image" content="{{ if .Params.mastimage }}{{ .Params.mastimage }}{{ else }} {{ "http://prakhar.me/images/skydive2.jpg" }} {{ end }}"/>
+<meta name="twitter:image" content="{{ if .IsPage }}{{ .pageimage }}{{ else }} {{ "http://prakhar.me/images/skydive2.jpg" }} {{ end }}"/>
