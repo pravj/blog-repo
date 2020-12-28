@@ -11,11 +11,9 @@ title = "About"
 </p>
 </div>
 
-Heya!
+Hey!
 
-I'm Pravendra Singh, passionate about solving real life problems and building products having an impact on someone's daily life.
-
-I received my undergraduate degree from the <a href="http://www.iitr.ac.in">Indian Institute of Technology, Roorkee</a> (Computer Science and Engineering, 2016).
+I'm Pravendra Singh, passionate about solving real-life problems and building products having an impact on someone's daily life.
 
 <img src="https://openmoji.org/data/color/svg/E142.svg" height="32px" alt="" width="32px"> People say that I am good at [clicking pictures](https://instagram.com/pravj). I have won a <em>Mobile Photography Competition</em> but can't show you the certificate because I have lost it.
 
@@ -35,17 +33,17 @@ I received my undergraduate degree from the <a href="http://www.iitr.ac.in">Indi
 
 This section is no more left empty. Still, everything is art.
 
-##### The Muddy Turn
+#### The Muddy Turn
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎨🖌️ 🚨 &quot;The Muddy Turn&quot;<br><br>Spent 3 hours painting this view, as seen from an imaginary muddy road somewhere in the mountain range.<br><br>👇Follow this thread if you want to create such a masterpiece single handly.<a href="[https://twitter.com/hashtag/painting?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/painting?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/painting?src=hash&amp;ref_src=twsrc%5Etfw")">#painting</a> <a href="[https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw")">#art</a> <a href="[https://twitter.com/hashtag/scenic?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/scenic?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/scenic?src=hash&amp;ref_src=twsrc%5Etfw")">#scenic</a> <a href="https://t.co/oQhTBhrtKv">pic.twitter.com/oQhTBhrtKv</a></p>&mdash; Pravendra Singh (@hackpravj) <a href="[https://twitter.com/hackpravj/status/1167820924101386240?ref_src=twsrc%5Etfw](https://twitter.com/hackpravj/status/1167820924101386240?ref_src=twsrc%5Etfw "https://twitter.com/hackpravj/status/1167820924101386240?ref_src=twsrc%5Etfw")">August 31, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎨🖌️ 🚨 "The Muddy Turn"<br><br>Spent 3 hours painting this view, as seen from an imaginary muddy road somewhere in the mountain range.<br><br>👇Follow this thread if you want to create such a masterpiece single handly.<a href="[https://twitter.com/hashtag/painting?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/painting?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/painting?src=hash&ref_src=twsrc%5Etfw")">#painting</a> <a href="[https://twitter.com/hashtag/art?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/art?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/art?src=hash&ref_src=twsrc%5Etfw")">#art</a> <a href="[https://twitter.com/hashtag/scenic?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/scenic?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/scenic?src=hash&ref_src=twsrc%5Etfw")">#scenic</a> <a href="https://t.co/oQhTBhrtKv">pic.twitter.com/oQhTBhrtKv</a></p>— Pravendra Singh (@hackpravj) <a href="[https://twitter.com/hackpravj/status/1167820924101386240?ref_src=twsrc%5Etfw](https://twitter.com/hackpravj/status/1167820924101386240?ref_src=twsrc%5Etfw "https://twitter.com/hackpravj/status/1167820924101386240?ref_src=twsrc%5Etfw")">August 31, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
-##### An evening next to the river
+#### An evening next to the river
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;An evening next to the river&quot;.<a href="[https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw](https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw "https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw")">@Krita_Painting</a> <a href="https://t.co/t9CaZoXIy7">pic.twitter.com/t9CaZoXIy7</a></p>&mdash; Pravendra Singh (@hackpravj) <a href="[https://twitter.com/hackpravj/status/1048557580929327105?ref_src=twsrc%5Etfw](https://twitter.com/hackpravj/status/1048557580929327105?ref_src=twsrc%5Etfw "https://twitter.com/hackpravj/status/1048557580929327105?ref_src=twsrc%5Etfw")">October 6, 2018</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">"An evening next to the river".<a href="[https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw](https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw "https://twitter.com/Krita_Painting?ref_src=twsrc%5Etfw")">@Krita_Painting</a> <a href="https://t.co/t9CaZoXIy7">pic.twitter.com/t9CaZoXIy7</a></p>— Pravendra Singh (@hackpravj) <a href="[https://twitter.com/hackpravj/status/1048557580929327105?ref_src=twsrc%5Etfw](https://twitter.com/hackpravj/status/1048557580929327105?ref_src=twsrc%5Etfw "https://twitter.com/hackpravj/status/1048557580929327105?ref_src=twsrc%5Etfw")">October 6, 2018</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
-##### The settlement series
+#### The settlement series
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wasn&#39;t able to complete it, memories of the urban and other settlement faded away.<br><br>And the same happened with the rhyming words that were supposed to land in the poem.<br><br>But that shouldn&#39;t stop you from looking at what came out. <a href="https://t.co/AemZOeTrj0">pic.twitter.com/AemZOeTrj0</a></p>&mdash; Pravendra Singh (@hackpravj) <a href="[https://twitter.com/hackpravj/status/1300064801381478400?ref_src=twsrc%5Etfw](https://twitter.com/hackpravj/status/1300064801381478400?ref_src=twsrc%5Etfw "https://twitter.com/hackpravj/status/1300064801381478400?ref_src=twsrc%5Etfw")">August 30, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wasn't able to complete it, memories of the urban and other settlement faded away.<br><br>And the same happened with the rhyming words that were supposed to land in the poem.<br><br>But that shouldn't stop you from looking at what came out. <a href="https://t.co/AemZOeTrj0">pic.twitter.com/AemZOeTrj0</a></p>— Pravendra Singh (@hackpravj) <a href="[https://twitter.com/hackpravj/status/1300064801381478400?ref_src=twsrc%5Etfw](https://twitter.com/hackpravj/status/1300064801381478400?ref_src=twsrc%5Etfw "https://twitter.com/hackpravj/status/1300064801381478400?ref_src=twsrc%5Etfw")">August 30, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 ### Colophon
 
