@@ -18,7 +18,7 @@ This article describes the approach I'm following to set personal goals for myse
 
 I've worked them out in order to get a better grip on the concept by implementing them in a relatively newer setting/environment outside of the work.
 
-I will continue updating this article and the attached document in case of any changes or updates. _If you want to discuss more, or in case of any feedback, please reach out to me at_ [_@hackpravj_](https://twitter.com/hackpravj)
+I will continue updating this article and the attached document in case of any changes or updates. If you want to discuss more, or in case of any feedback, please reach out to me at [@hackpravj](https://twitter.com/hackpravj)
 
 ### Themes
 
@@ -39,6 +39,8 @@ Here are the 7 separate themes in my current plan.
 For each of the themes, I came up with a backlog of aspirations and ideas.
 
 This has helped me connect the ideas with each other if there is any such possibility, OR ruling out ideas that are duplicate to each other.
+
+Some of the themes or ideas that didn't make it to the current plan, will be considered during the next quarter's OKRs.
 
 ### Objectives
 
