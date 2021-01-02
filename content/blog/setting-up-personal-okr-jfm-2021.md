@@ -8,9 +8,9 @@ title = "Setting up personal OKR [JFM-2021]"
 url = "/blog/personal-okr-2021-plan/"
 
 +++
-> **If you work at the intersection of Product-Management and Artificial-Intelligence, I would love to connect and discuss with you regarding your experience/learnings.**
+>  **If you work at the intersection of Product-Management and Artificial-Intelligence, I would love to connect and discuss with you regarding your experience/learnings.**
 >
-> Can we connect over [email](mailto:hackpravj@gmail.com) OR [Twitter](https://twitter.com/hackpravj)?
+> Can we connect over [email](mailto:hackpravj@gmail.com) OR [Twitter](https://twitter.com/hackpravj)? Please?
 
 ***
 
@@ -113,6 +113,12 @@ As you're moving ahead with your OKR planning, you need to ensure that you're re
 
 1. [Google's guide to OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 2. [OKR training session (YouTube playlist](https://www.youtube.com/playlist?list=PLE7C8Y5NNLkMrMsqbe0igtYgPopb7IXBH)) by Directi CEO Bhavin Turakia
+
+***
+
+> **If you work at the intersection of Product-Management and Artificial-Intelligence, I would love to connect and discuss with you regarding your experience/learnings.**
+>
+> Can we connect over [email](mailto:hackpravj@gmail.com) OR [Twitter](https://twitter.com/hackpravj)? Please?
 
 ***
 
