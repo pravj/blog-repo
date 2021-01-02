@@ -10,15 +10,15 @@ url = "/blog/personal-okr-2021-plan/"
 +++
 This article describes the approach I'm following to set personal goals for myself, in the form of Objectives and Key-results (OKR).
 
-> A publically available worksheet for my personal OKRs for January-February-March 2021 is available [here](https://docs.google.com/spreadsheets/d/1hN5ldi0SgoGFyvXwyLCmf98337AyIt1xzbynVicGH-8/edit?usp=sharing).
+> If you are new to OKR, scroll down to the **Resources** section for more details.
 
 ![Personal OKR for JFM 2021](/images/pageimage-setting-up-personal-okr-jfm-2021.png "Personal OKR for JFM 2021")
 
-I've worked them out in order to get a better grip on the concept by implementing them in a relatively newer setting/environment outside of the work. \[If you want to discuss more, or in case of any feedback, please reach out to me at [@hackpravj](https://twitter.com/hackpravj)\]
+> A publically available worksheet for my personal OKRs for January-February-March 2021 is available [here](https://docs.google.com/spreadsheets/d/1hN5ldi0SgoGFyvXwyLCmf98337AyIt1xzbynVicGH-8/edit?usp=sharing).
 
-> If you are new to OKR, scroll down the **Resources** section for more details.
+I've worked them out in order to get a better grip on the concept by implementing them in a relatively newer setting/environment outside of the work.
 
-I will continue updating this article and the attached document in case of any changes or updates.
+I will continue updating this article and the attached document in case of any changes or updates. _If you want to discuss more, or in case of any feedback, please reach out to me at_ [_@hackpravj_](https://twitter.com/hackpravj)
 
 ### Themes
 
