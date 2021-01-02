@@ -16,7 +16,10 @@ This article describes the approach I'm following to set personal goals for myse
 
 > A publically available worksheet for my personal OKRs for January-February-March 2021 is available [here](https://docs.google.com/spreadsheets/d/1hN5ldi0SgoGFyvXwyLCmf98337AyIt1xzbynVicGH-8/edit?usp=sharing).
 
-I've worked them out in order to get a better grip on the concept by implementing them in a relatively newer setting/environment outside of the work.
+I've worked them out in order to:
+
+* Get a better grip on the concept by implementing them in a relatively newer setting/environment outside of the work
+* Effectively set goals in the personal life where it's easy to measure progress and find out weeker/strong areas to work on
 
 I will continue updating this article and the attached document in case of any changes or updates. If you want to discuss more, or in case of any feedback, please reach out to me at [@hackpravj](https://twitter.com/hackpravj)
 
