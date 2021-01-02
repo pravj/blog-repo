@@ -13,6 +13,8 @@ This article describes the approach I'm following to set personal goals for myse
 
 > A publically available worksheet for my personal OKRs for January-February-March 2021 is available [here](https://docs.google.com/spreadsheets/d/1hN5ldi0SgoGFyvXwyLCmf98337AyIt1xzbynVicGH-8/edit?usp=sharing).
 
+![Personal OKR for JFM 2021](/images/pageimage-setting-up-personal-okr-jfm-2021.png "Personal OKR for JFM 2021")
+
 I've worked them out in order to get a better grip on the concept by implementing them in a relatively newer setting/environment outside of the work. \[If you want to discuss more, or in case of any feedback, please reach out to me at [@hackpravj](https://twitter.com/hackpravj)\]
 
 > If you are new to OKR, scroll down the **Resources** section for more details.
@@ -35,7 +37,7 @@ Here are the 7 separate themes in my current plan.
 
 #### Backlog
 
-For each of the themes, I came up with a backlog of aspirations and ideas. 
+For each of the themes, I came up with a backlog of aspirations and ideas.
 
 This has helped me connect the ideas with each other if there is any such possibility, OR ruling out ideas that are duplicate to each other.
 
