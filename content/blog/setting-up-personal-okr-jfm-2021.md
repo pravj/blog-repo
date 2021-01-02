@@ -107,10 +107,7 @@ As you're moving ahead with your OKR planning, you need to ensure that you're re
 
 1. [Google's guide to OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 2. [OKR training session (YouTube playlist](https://www.youtube.com/playlist?list=PLE7C8Y5NNLkMrMsqbe0igtYgPopb7IXBH)) by Directi CEO Bhavin Turakia
-
-I will be maintaining a Twitter thread for the same topic, as mentioned below.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Personal-OKR \[JFM 2021\] thread.<br><br>Inspired by some interesting folks on my Twitter timeline like Manas, I&#39;ve decided to follow Personal-OKR.<br><br>Putting it out there to hold myself accountable and to maintain a journal. Will continue updating the thread.<a href="https://t.co/tXusO4cOhP">https://t.co/tXusO4cOhP</a></p>&mdash; Pravendra Singh (@hackpravj) <a href="[https://twitter.com/hackpravj/status/1345382233851326464?ref_src=twsrc%5Etfw](https://twitter.com/hackpravj/status/1345382233851326464?ref_src=twsrc%5Etfw "https://twitter.com/hackpravj/status/1345382233851326464?ref_src=twsrc%5Etfw")">January 2, 2021</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script> 
+3. I will be maintaining a Twitter thread for the same topic, [here](https://twitter.com/hackpravj/status/1345382233851326464).
 
 ***
 
