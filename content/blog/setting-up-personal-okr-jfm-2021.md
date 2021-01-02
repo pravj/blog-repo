@@ -61,13 +61,13 @@ For example, if you've selected "Health" as one of the themes, the following can
 
 Once you've decided your objective, the key-results will be a mechanism to show your progress towards that objective.
 
-To come up with the objectives associated with the themes, ask yourself
+To come up with the key-results associated with the objective, ask yourself
 
 * How will I know I am getting there (_reaching the objective_)?
 
 > Key-results are milestones that will move you closer to the objective if achieved.
 
-Considering the earlier example of the Objective (_Get in a better shape_), here are three representative key-results:
+Considering the earlier example of the Objective (_Get in a better shape_), here are two representative key-results:
 
 * Key-result-1: Reduce weight by 10 kilograms (_or pounds_)
 * Key-result-2: Achieve a daily step count of 10K steps walked
