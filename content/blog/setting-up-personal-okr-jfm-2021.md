@@ -2,7 +2,6 @@
 aliases = []
 date = 2021-01-02T12:50:00Z
 description = "My approach to creating OKR for the personal life. In this article, I've tried covering different aspects of the personal life and created specific and measurable goals for them."
-draft = true
 pageimage = "pageimage-setting-up-personal-okr-jfm-2021.png"
 tags = ["OKR", "2021", "Planning"]
 title = "Setting up personal OKR [JFM-2021]"
