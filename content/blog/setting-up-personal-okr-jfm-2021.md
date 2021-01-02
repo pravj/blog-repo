@@ -8,12 +8,6 @@ title = "Setting up personal OKR [JFM-2021]"
 url = "/blog/personal-okr-2021-plan/"
 
 +++
->  **If you work at the intersection of Product-Management and Artificial-Intelligence, I would love to connect and discuss with you regarding your experience/learnings.**
->
-> Can we connect over [email](mailto:hackpravj@gmail.com) OR [Twitter](https://twitter.com/hackpravj)? Please?
-
-***
-
 This article describes the approach I'm following to set personal goals for myself, in the form of Objectives and Key-results (OKR).
 
 > If you are new to OKR, scroll down to the **Resources** section for more details.
