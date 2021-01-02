@@ -20,7 +20,7 @@ I've worked them out in order to get a better grip on the concept by implementin
 
 I will continue updating this article and the attached document in case of any changes or updates.
 
-#### Themes
+### Themes
 
 Start with the themes representing the different areas of life. For example, in your case, it can be Personal-finance, Health, Creativity, and more. You can have your own personal reasons behind selecting the final themes.
 
@@ -34,13 +34,13 @@ Here are the 7 separate themes in my current plan.
 6. Learning
 7. Relationships
 
-#### Backlog
+### Backlog
 
 For each of the themes, I came up with a backlog of aspirations and ideas.
 
 This has helped me connect the ideas with each other if there is any such possibility, OR ruling out ideas that are duplicate to each other.
 
-#### Objectives
+### Objectives
 
 To come up with the objectives associated with the themes, ask yourself
 
@@ -52,7 +52,7 @@ For example, if you've selected "Health" as one of the themes, the following can
 
 * Objective-1: Get in a better shape
 
-#### Key-results
+### Key-results
 
 Once you've decided your objective, the key-results will be a mechanism to show your progress towards that objective.
 
@@ -67,7 +67,7 @@ Considering the earlier example of the Objective (_Get in a better shape_), here
 * Key-result-1: Reduce weight by 10 kilograms (_or pounds_)
 * Key-result-2: Achieve a daily step count of 10K steps walked
 
-#### Initiatives
+### Initiatives
 
 Once you know the key-results, ask yourself the following question to come up with the initiatives:
 
@@ -81,11 +81,11 @@ For example, consider the first key-result (_Reduce weight by 10 kilograms_), th
 * Initiative-2: Stop eating after 7 PM
 * Initiative-3: Start intermittent-fasting every other day
 
-#### OKR check-in
+### OKR check-in
 
 As you're moving ahead with your OKR planning, you need to ensure that you're regularly measuring your progress.
 
-#### Measurement
+### Measurement
 
 * You can provide different weights to the key-results associated with an objective.
   * For example, the first key-result (_Reduce weight by 10 kilograms_) can take up 70% (_relatively higher_) weightage than the second key-result (_Walking 10K steps daily_).
@@ -93,12 +93,12 @@ As you're moving ahead with your OKR planning, you need to ensure that you're re
   * A typically considered "sweet-spot" for OKRs is 60-70%.
   * If a key-result's progress is higher than 70%, it might be a sign of lower ambitious objectives.
 
-#### Summary
+### Summary
 
 * OKRs can also be implemented in personal life, out of the business/work (refer to Manas's work on personal OKR \[[start]()\] \[[final update](https://manassaloi.com/2020/12/31/okrs-2020-update.html)\]).
 * They serve as a goal-setting tool that helps you assess your progress on a regular basis.
 
-#### Resources
+### Resources
 
 1. [Google's guide to OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 2. [OKR training session (YouTube playlist](https://www.youtube.com/playlist?list=PLE7C8Y5NNLkMrMsqbe0igtYgPopb7IXBH)) by Directi CEO Bhavin Turakia
