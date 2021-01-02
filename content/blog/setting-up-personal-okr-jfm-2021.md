@@ -110,9 +110,9 @@ As you're moving ahead with your OKR planning, you need to ensure that you're re
 
 ***
 
-> **If you work at the intersection of Product-Management and Artificial-Intelligence, I would love to connect and discuss with you regarding your experience/learnings.**
->
-> Can we connect over [email](mailto:hackpravj@gmail.com) OR [Twitter](https://twitter.com/hackpravj)?
+If you work at the intersection of **Product-Management** and **Artificial-Intelligence**, I would love to **connect and exchange notes** with you regarding your experience/learnings.
+
+* Can we connect over [email](mailto:hackpravj@gmail.com) OR [Twitter](https://twitter.com/hackpravj)?
 
 ***
 
