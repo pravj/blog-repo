@@ -95,7 +95,7 @@ As you're moving ahead with your OKR planning, you need to ensure that you're re
 
 ### Summary
 
-* OKRs can also be implemented in personal life, out of the business/work (refer to Manas's work on personal OKR \[[start]()\] \[[final update](https://manassaloi.com/2020/12/31/okrs-2020-update.html)\]).
+* OKRs can also be implemented in personal life, out of the business/work (refer to Manas's work on personal OKR \[[start](https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)\] \[[final update](https://manassaloi.com/2020/12/31/okrs-2020-update.html)\]).
 * They serve as a goal-setting tool that helps you assess your progress on a regular basis.
 
 ### Resources
