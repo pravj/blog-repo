@@ -56,8 +56,6 @@ Let's take the example of some products (systems) solving for different jobs-to-
 
 Starting with HAL 9000 from the movie 2001: A Space Odyssey.
 
-![HAL 9000 from the movie 2001: A Space Odyssey](/images/automation-product-design-framework-hal-9000-background.png "HAL 9000 from the movie 2001: A Space Odyssey")
-
 Below is the image from the scene where it decides to rank 10, leveling up from the typical rank of 9 for each state, for the Job of assisting the crew.
 
 From a smart assistant that can do almost everything, it goes on to deny opening the hatch door for Dave who is outside.
