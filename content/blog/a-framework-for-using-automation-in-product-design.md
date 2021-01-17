@@ -25,7 +25,7 @@ Even the dictionary gets it wrong perceiving it as a binary mode of operation (e
 
 From this perspective, even a partial contribution from a system (computer) for a procedure that was done earlier by humans, is also called automation.
 
-It’s just automation at a different scale, as explained in the later part of this article.
+It’s just automation at a different scale, as explained in the latter part of this article.
 
 **Anatomy of a procedure**
 
