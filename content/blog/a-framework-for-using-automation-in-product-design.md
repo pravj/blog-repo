@@ -48,7 +48,7 @@ Similar to a human, an automated system can follow the same approach:
 
 Here is a 10-point scale, on how a system might operate on each of the states (SENSE -> DECIDE -> ACT).
 
-![Automation levels](/images/level-1_-offers-no-assistance-human-takes-all-decisions_actions.png "Automation levels")
+![](/images/automation-product-design-framework-automation-levels.png)
 
 ### **Systems and their automation levels**
 
