@@ -110,6 +110,8 @@ Here is how the current process looks like.
 2. **DECIDE**: Identify important emails (0/10)
 3. **ACT**: Respond or create tasks/events from the important emails (0/10)
 
+![Acting on important emails in Gmail](/images/automation-product-design-framework-gmail-current-procedure.png "Acting on important emails in Gmail")
+
 Now let’s try to reimagine the experience for the same job.
 
 1. For the SENSE state
