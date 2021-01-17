@@ -43,6 +43,7 @@ fields:
     required: false
   label: PageImage
 pages:
+- content/blog/a-framework-for-using-automation-in-product-design.md
 - content/blog/breaking-into-the-indian-e-commerce.md
 - content/blog/contributing-to-the-go-programming-language.md
 - content/blog/development-story-of-puzzl.md
