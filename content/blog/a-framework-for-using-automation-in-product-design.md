@@ -63,7 +63,7 @@ Here is the image from the scene where it decides to rank 10, leveling up from t
 
 From a smart assistant that can do almost everything, it goes on to deny opening the hatch door for Dave who is outside.
 
-![](/images/automation-product-design-framework-hal-9000.png)
+![HAL 9000 denying access to Dave](/images/automation-product-design-framework-hal-9000.png "HAL 9000 denying access to Dave")
 
 Consider the Amazon Dash button for the Job of ordering a kitchen item.
 
