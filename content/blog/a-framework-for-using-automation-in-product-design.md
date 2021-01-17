@@ -85,6 +85,8 @@ Consider Google Maps for the Job of finding the shortest path from A to B.
 2. DECIDE (3/10, calculates a few routes based on traffic, transport availability, etc)
 3. ACT (10/10, shows selected routes)
 
+![Google Maps, directions between two places](/images/automation-product-design-framework-google-maps.png "Google Maps, directions between two places")
+
 **Application in product design**
 
 Using this framework to design or improve an existing product for a given job-to-be-done, starts with asking the question.
