@@ -8,7 +8,7 @@ title = "A framework for using automation in product design"
 url = "/blog/automation-product-design-framework/"
 
 +++
-This article is an attempt to dissect and explain automation, and to provide a framework on how to use automation during product design.
+This article is an attempt to **dissect and explain automation**, and to **provide a framework on how to use automation during product design**.
 
 It's based on the paper titled, "[A Model for Types and Levels of Human Interaction with Automation](https://ieeexplore.ieee.org/document/844354 "A model for types and levels of human interaction with automation")," by R Parasuraman et al.
 
@@ -32,17 +32,17 @@ Let's understand how humans perform a procedure before we move to the automation
 
 There are three states in doing a procedure.
 
-1. SENSE (information acquisition via the three primarily used senses 👂 👁️  ✋)
-2. DECIDE (based on the analysis, deciding a set of options)
-3. ACT (acting on an option after doing the best possible calculation)
+1. **SENSE** (information acquisition via the three primarily used senses 👂 👁️  ✋)
+2. **DECIDE** (based on the analysis, deciding a set of options)
+3. **ACT** (acting on an option after doing the best possible calculation)
 
 Similar to a human, an automated system can follow the same approach:
 
-1. SENSE: Collecting information/input
-2. DECIDE: Deciding on the actions
-3. ACT: Taking the appropriate action
+1. **SENSE**: Collecting information/input
+2. **DECIDE**: Deciding on the actions
+3. **ACT**: Taking the appropriate action
 
-> The only difference is, it might take a gradual approach to operating in each state.
+> The only difference is, a system might take a gradual operating approach in each state.
 
 ### **Automation levels**
 
@@ -66,9 +66,9 @@ From a smart assistant that can do almost everything, it goes on to deny opening
 
 > Let's understand it for the Amazon Dash button for the Job of ordering a kitchen item.
 
-1. SENSE (0/10, customer needs to give input by pressing a button)
-2. DECIDE (0/10, customer sets up the configuration on what to order when it’s pressed)
-3. ACT (7/10, places the order, informs the customer)
+1. **SENSE** (0/10, customer needs to give input by pressing a button)
+2. **DECIDE** (0/10, customer sets up the configuration on what to order when it’s pressed)
+3. **ACT** (7/10, places the order, informs the customer)
 
 ![Amazon's dash button](/images/automation-product-design-framework-amazon-dash.jpg "Amazon's dash button")
 
@@ -76,9 +76,9 @@ From a smart assistant that can do almost everything, it goes on to deny opening
 
 > Let's review Gmail's smart-compose feature for the Job of writing an email (response).
 
-1. SENSE (10/10, automatically goes through the email content)
-2. DECIDE (10/10, automatically makes a decision for the suggestion)
-3. ACT (0/10, the user needs to accept the suggested words)
+1. **SENSE** (10/10, automatically goes through the email content)
+2. **DECIDE** (10/10, automatically makes a decision for the suggestion)
+3. **ACT** (0/10, the user needs to accept the suggested words)
 
 ![Gmail's smart-compose](/images/automation-product-design-framework-smart-compose.gif "Gmail's smart-compose")
 
@@ -86,9 +86,9 @@ From a smart assistant that can do almost everything, it goes on to deny opening
 
 > Let's consider Google Maps for the Job of finding the shortest path from A to B.
 
-1. SENSE (10 when auto-detecting the location, 0 when the user sets up the location)
-2. DECIDE (3/10, calculates a few routes based on traffic, transport availability, etc)
-3. ACT (10/10, shows selected routes)
+1. **SENSE** (10 when auto-detecting the location, 0 when the user sets up the location)
+2. **DECIDE** (3/10, calculates a few routes based on traffic, transport availability, etc)
+3. **ACT** (10/10, shows selected routes)
 
 ![Google Maps, directions between two places](/images/automation-product-design-framework-google-maps.png "Google Maps, directions between two places")
 
@@ -106,9 +106,9 @@ And then striving for an experience that is more assistive than the current stan
 
 Here is how the current process looks like.
 
-1. SENSE: Go through new emails (0/10)
-2. DECIDE: Identify important emails (0/10)
-3. ACT: Respond or create tasks/events from the important emails (0/10)
+1. **SENSE**: Go through new emails (0/10)
+2. **DECIDE**: Identify important emails (0/10)
+3. **ACT**: Respond or create tasks/events from the important emails (0/10)
 
 Now let’s try to reimagine the experience for the same job.
 
