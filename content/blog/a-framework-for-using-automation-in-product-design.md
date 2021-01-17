@@ -12,7 +12,7 @@ This article is an attempt to dissect and explain automation, and to provide a f
 
 It's based on the paper titled, "[A Model for Types and Levels of Human Interaction with Automation](https://ieeexplore.ieee.org/document/844354 "A model for types and levels of human interaction with automation")," by R Parasuraman et al.
 
-**Disagreement with the definition**
+### Disagreement with the definition
 
 There are many opinions on automation and its potential negative effects on society, without understanding it fully.
 
@@ -20,13 +20,13 @@ Even the dictionary gets it wrong perceiving it as a binary mode of operation (e
 
 ![Dictionary definition: Automation](/images/automation-product-design-framework-automation-definition.png "Dictionary definition: Automation")
 
-> A basic but apt definition is, performing a process or procedure with minimal human assistance.
+> A basic but apt definition for automation is, performing a process or procedure with minimal human assistance.
 
 From this perspective, even a partial contribution from a system (computer) for a procedure that was done earlier by humans, is also called automation.
 
 It’s just automation at a different scale, as explained in the latter part of this article.
 
-**Anatomy of a procedure**
+### **Anatomy of a procedure**
 
 Let's understand how humans perform a procedure before we move to the automation levels (scale).
 
@@ -44,13 +44,13 @@ Similar to a human, an automated system can follow the same approach:
 
 > The only difference is, it might take a gradual approach to operating in each state.
 
-**Automation levels**
+### **Automation levels**
 
 Here is a 10-point scale, on how a system might operate on each of the states (SENSE -> DECIDE -> ACT).
 
 ![Automation levels](/images/automation-product-design-framework-automation-levels.png "Automation levels")
 
-**Systems and their automation levels**
+### **Systems and their automation levels**
 
 Let's take the example of some products (systems) solving for different jobs-to-be-done (JTBD), operating on different scales for each state.
 
@@ -58,7 +58,7 @@ Starting with HAL 9000 from the movie 2001: A Space Odyssey.
 
 ![HAL 9000 from the movie 2001: A Space Odyssey](/images/automation-product-design-framework-hal-9000-background.png "HAL 9000 from the movie 2001: A Space Odyssey")
 
-Here is the image from the scene where it decides to rank 10, leveling up from the typical rank of 9 for each state, for the Job of assisting the crew.
+Below is the image from the scene where it decides to rank 10, leveling up from the typical rank of 9 for each state, for the Job of assisting the crew.
 
 From a smart assistant that can do almost everything, it goes on to deny opening the hatch door for Dave who is outside.
 
@@ -86,7 +86,7 @@ Consider Google Maps for the Job of finding the shortest path from A to B.
 
 ![Google Maps, directions between two places](/images/automation-product-design-framework-google-maps.png "Google Maps, directions between two places")
 
-**Application in product design**
+### **Application in product design**
 
 Using this framework to design or improve an existing product for a given job-to-be-done, starts with asking the question.
 
