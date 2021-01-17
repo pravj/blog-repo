@@ -77,7 +77,7 @@ Let's review Gmail's smart-compose feature for the Job of writing an email (resp
 2. DECIDE (10/10, automatically makes a decision for the suggestion)
 3. ACT (0/10, the user needs to accept the suggested words)
 
-\[GIF\]
+![Gmail's smart-compose](/images/automation-product-design-framework-smart-compose.gif "Gmail's smart-compose")
 
 Consider Google Maps for the Job of finding the shortest path from A to B.
 
