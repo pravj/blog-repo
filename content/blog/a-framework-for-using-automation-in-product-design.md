@@ -23,7 +23,7 @@ Even the dictionary gets it wrong perceiving it as a binary mode of operation (e
 
 > A basic but apt definition is, performing a process or procedure with minimal human assistance.
 
-From this perspective, even a partial contribution from a system (computer) for a procedure that was done earlier by humans, is also called automation. 
+From this perspective, even a partial contribution from a system (computer) for a procedure that was done earlier by humans, is also called automation.
 
 It’s just automation at a different scale, as explained in the later part of this article.
 
@@ -63,7 +63,7 @@ Here is the image from the scene where it decides to rank 10, leveling up from t
 
 From a smart assistant that can do almost everything, it goes on to deny opening the hatch door for Dave who is outside.
 
-\[IMAGE\]
+![](/images/automation-product-design-framework-hal-9000.png)
 
 Consider the Amazon Dash button for the Job of ordering a kitchen item.
 
@@ -111,11 +111,11 @@ Now let’s try to reimagine the experience for the same job.
 
 Hence we can set this score to 10/10 and move on to the next two states.
 
-2. To reimagine the DECIDE state
+1. To reimagine the DECIDE state
 
 * We can jump the experience to level 3 by making it select a few important emails. For example, emails where you’re added in a new email by the boss, a question directed to you, use of words ASAP/EOD, etc.
 
-3. For the ACT state
+1. For the ACT state
 
 We can shift the experience to level 5 by:
 
