@@ -54,7 +54,7 @@ Here is a 10-point scale, on how a system might operate on each of the states (S
 
 Let's take the example of some products (systems) solving for different jobs-to-be-done (JTBD), operating on different scales for each state.
 
-Starting with HAL 9000 from the movie 2001: A Space Odyssey.
+**HAL 9000 (2001: A Space Odyssey)**
 
 Below is the image from the scene where it decides to rank 10, leveling up from the typical rank of 9 for each state, for the Job of assisting the crew.
 
@@ -62,7 +62,9 @@ From a smart assistant that can do almost everything, it goes on to deny opening
 
 ![HAL 9000 denying access to Dave](/images/automation-product-design-framework-hal-9000.png "HAL 9000 denying access to Dave")
 
-Consider the Amazon Dash button for the Job of ordering a kitchen item.
+**Amazon Dash button**
+
+> Let's understand it for the Amazon Dash button for the Job of ordering a kitchen item.
 
 1. SENSE (0/10, customer needs to give input by pressing a button)
 2. DECIDE (0/10, customer sets up the configuration on what to order when it’s pressed)
@@ -70,7 +72,9 @@ Consider the Amazon Dash button for the Job of ordering a kitchen item.
 
 ![Amazon's dash button](/images/automation-product-design-framework-amazon-dash.jpg "Amazon's dash button")
 
-Let's review Gmail's smart-compose feature for the Job of writing an email (response).
+**Gmail's smart-compose**
+
+> Let's review Gmail's smart-compose feature for the Job of writing an email (response).
 
 1. SENSE (10/10, automatically goes through the email content)
 2. DECIDE (10/10, automatically makes a decision for the suggestion)
@@ -78,7 +82,9 @@ Let's review Gmail's smart-compose feature for the Job of writing an email (resp
 
 ![Gmail's smart-compose](/images/automation-product-design-framework-smart-compose.gif "Gmail's smart-compose")
 
-Consider Google Maps for the Job of finding the shortest path from A to B.
+**Google Maps**
+
+> Let's consider Google Maps for the Job of finding the shortest path from A to B.
 
 1. SENSE (10 when auto-detecting the location, 0 when the user sets up the location)
 2. DECIDE (3/10, calculates a few routes based on traffic, transport availability, etc)
