@@ -19,7 +19,7 @@ There are many opinions on automation and its potential negative effects on soci
 
 Even the dictionary gets it wrong perceiving it as a binary mode of operation (either 0 or full human replacement).
 
-\[IMAGE\]
+![Dictionary definition: Automation](/images/automation-product-design-framework-automation-definition.png "Dictionary definition: Automation")
 
 > A basic but apt definition is, performing a process or procedure with minimal human assistance.
 
