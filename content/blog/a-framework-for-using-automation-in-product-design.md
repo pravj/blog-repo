@@ -56,7 +56,7 @@ Let's take the example of some products (systems) solving for different jobs-to-
 
 **HAL 9000 (2001: A Space Odyssey)**
 
-Below is the image from the scene where it decides to rank 10, leveling up from the typical rank of 9 for each state, for the Job of assisting the crew.
+> Below is the image from the scene where it decides to rank 10, leveling up from the typical rank of 9 for each state, for the Job of assisting the crew.
 
 From a smart assistant that can do almost everything, it goes on to deny opening the hatch door for Dave who is outside.
 
@@ -102,7 +102,7 @@ And then striving for an experience that is more assistive than the current stan
 
 ***
 
-Let’s take the job of “Acting on important emails on time when starting the work” and evaluate plain Gmail for it.
+> Let’s take the job of “Acting on important emails on time when starting the work” and evaluate plain Gmail for it.
 
 Here is how the current process looks like.
 
