@@ -68,6 +68,8 @@ Consider the Amazon Dash button for the Job of ordering a kitchen item.
 2. DECIDE (0/10, customer sets up the configuration on what to order when it’s pressed)
 3. ACT (7/10, places the order, informs the customer)
 
+![Amazon's dash button](/images/automation-product-design-framework-amazon-dash.jpg "Amazon's dash button")
+
 Let's review Gmail's smart-compose feature for the Job of writing an email (response).
 
 1. SENSE (10/10, automatically goes through the email content)
