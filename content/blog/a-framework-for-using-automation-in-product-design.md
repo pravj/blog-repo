@@ -14,7 +14,7 @@ It's based on the paper titled, "[A Model for Types and Levels of Human Interact
 
 ### Disagreement with the definition
 
-There are many opinions on automation and its potential negative effects on society, without understanding it fully.
+There are many opinions on automation without understanding it fully.
 
 Even the dictionary gets it wrong perceiving it as a binary mode of operation (either 0 or full human replacement).
 
@@ -114,19 +114,36 @@ Here is how the current process looks like.
 
 Now let’s try to reimagine the experience for the same job.
 
-For the SENSE state
+**For the SENSE state**
 
-* Gmail can sense the incoming emails and the respective patterns without taking the user’s help.
-* Hence we can set this score to 10/10 and move on to the next two states.
+* Gmail can sense the incoming emails and the respective patterns without taking the user’s help. Here we can set this score to 10/10 and move on to the next two states.
 
-To reimagine the DECIDE state
+**To reimagine the DECIDE state**
 
 * We can jump the experience to level 3 by making it select a few important emails. For example, emails where you’re added in a new email by the boss, a question directed to you, use of words ASAP/EOD, etc.
 
-For the ACT state
+**For the ACT state**
 
 We can shift the experience to level 5 by:
 
 * Making Gmail suggest one action for each important email, to be executed with a click. For example, create a new meeting/todo, send an acknowledgment message, etc.
 
-It can even go to level 7 for some cases.
+![Applying the framework on Gmail](/images/automation-product-design-framework-reimagined-gmail.png "Applying the framework on Gmail")
+
+***
+
+### Summary
+
+The framework presented here is taken from the paper titled, "[A Model for Types and Levels of Human Interaction with Automation](https://ieeexplore.ieee.org/document/844354 "A model for types and levels of human interaction with automation")."
+
+It provides a 10-point scale for automation-levels of different stages, and breaks down each system's work into three states:
+
+1. **SENSE**
+2. **DECIDE**
+3. **ACT**
+
+In its current form, a system (or product) can be at any level in each state. To make the system more assistive, you need to increase the automation-level at a relevant state.
+
+***
+
+If you want to discuss more, or in case of any feedback, please reach out to me at [@hackpravj](https://twitter.com/hackpravj)
