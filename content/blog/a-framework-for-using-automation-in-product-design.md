@@ -114,17 +114,16 @@ Here is how the current process looks like.
 
 Now let’s try to reimagine the experience for the same job.
 
-1. For the SENSE state
+For the SENSE state
 
 * Gmail can sense the incoming emails and the respective patterns without taking the user’s help.
+* Hence we can set this score to 10/10 and move on to the next two states.
 
-Hence we can set this score to 10/10 and move on to the next two states.
-
-1. To reimagine the DECIDE state
+To reimagine the DECIDE state
 
 * We can jump the experience to level 3 by making it select a few important emails. For example, emails where you’re added in a new email by the boss, a question directed to you, use of words ASAP/EOD, etc.
 
-1. For the ACT state
+For the ACT state
 
 We can shift the experience to level 5 by:
 
