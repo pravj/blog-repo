@@ -2,7 +2,6 @@
 aliases = []
 date = 2021-01-17T15:30:00Z
 description = "A basic primer on what is automation and how can automation be used in product design."
-draft = true
 pageimage = ""
 tags = ["product", "design", "ux", "framework", "research"]
 title = "A framework for using automation in product design"
