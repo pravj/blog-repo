@@ -10,7 +10,7 @@ url = "/blog/finshots-storytelling-product-teardown/"
 +++
 [Finshots](https://finshots.in/ "Finshots") is an India-focused daily newsletter explaining the important financial news in a simplified language.
 
-The application has nailed the financial-education category and was a winner of Google Play’s Best of 2020 award. 🏆
+The application has nailed the financial-education category and was a winner of Google Play’s Best of 2020 award. 🏆 
 
 It has a 4.9/5 rating on the Play Store and has 100K+ downloads. On top of everything else, it has true fans loving the product and spreading the word around.
 
