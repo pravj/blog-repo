@@ -92,9 +92,13 @@ They've created a well-oiled engine that consistently generates simple/to-the-po
 
 It would be interesting to learn more about the behind-the-scene of the engine. Pretty sure there will be so many Quality-Check/Control lessons to learn about.
 
-**Topic backlog/pipeline/prioritization**, how they curate the topics/ideas to write about, and how do they prioritize one over the other.
+**Topic backlog/pipeline/prioritization**
 
-**Title/Big-question ideation and evaluation process**, how do they go about narrowing down on the "Big Question," and how do they evaluate if the final content is "Finshot worthy."
+How they curate the topics/ideas to write about, and how do they prioritize one over the other.
+
+**Title/Big-question ideation and evaluation process**
+
+How do they go about narrowing down on the "Big Question," and how do they evaluate if the final content is "Finshot worthy."
 
 > If you've found this article helpful, what do you think about sharing it with someone in your circle?
 >
