@@ -102,6 +102,8 @@ It would be interesting to learn more about the behind-the-scene of the engine. 
 1. How do they go about narrowing down on the "Big Question"?
 2. How do they evaluate if the final content is "Finshot worthy"?
 
-> If you've found this article helpful, what do you think about sharing it with someone in your circle?
+> If you've found this article helpful, what do you think about sharing it with someone?
+
+> 
 >
 > Meanwhile, I'm available at [@hackpravj](https://twitter.com/hackpravj "Pravendra's Twitter: @hackpravj") if you want to know 🖖🏻 whenever  🖖🏻 I write another such article.
