@@ -44,6 +44,7 @@ fields:
   label: PageImage
 pages:
 - content/blog/a-framework-for-using-automation-in-product-design.md
+- content/blog/anatomy-of-a-finshots-story-art-of-effective-storytelling.md
 - content/blog/anatomy-of-a-finshots-story-effective-storytelling.md
 - content/blog/breaking-into-the-indian-e-commerce.md
 - content/blog/contributing-to-the-go-programming-language.md
