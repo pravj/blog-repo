@@ -10,7 +10,7 @@ url = "/blog/automation-product-design-framework/"
 +++
 This article is an attempt to **dissect and explain automation**, and to **provide a framework on how to use automation during product design**.
 
-It's based on the paper titled, "[A Model for Types and Levels of Human Interaction with Automation](https://ieeexplore.ieee.org/document/844354 "A model for types and levels of human interaction with automation")," by R Parasuraman et al.
+It's based on the paper titled, "[A Model for Types and Levels of Human Interaction with Automation](https://ieeexplore.ieee.org/document/844354 "A model for types and levels of human interaction with automation")," by _R Parasuraman_ et al.
 
 ### Disagreement with the definition
 
