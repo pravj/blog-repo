@@ -10,7 +10,7 @@ url = "/blog/finshots-storytelling-product-teardown/"
 +++
 [Finshots](https://finshots.in/ "Finshots") is an India-focused daily newsletter explaining the important financial news in a simplified language.
 
-The application has nailed the financial-education category and was a winner of Google Play’s Best of 2020 award. 🏆 
+The application has nailed the financial-education category and was a winner of Google Play’s Best of 2020 award. 🏆
 
 It has a 4.9/5 rating on the Play Store and has 100K+ downloads. On top of everything else, it has true fans loving the product and spreading the word around.
 
@@ -94,11 +94,13 @@ It would be interesting to learn more about the behind-the-scene of the engine. 
 
 **Topic backlog/pipeline/prioritization**
 
-How they curate the topics/ideas to write about, and how do they prioritize one over the other.
+1. How do they curate the topics/ideas to write about?
+2. How do they prioritize one over the other?
 
 **Title/Big-question ideation and evaluation process**
 
-How do they go about narrowing down on the "Big Question," and how do they evaluate if the final content is "Finshot worthy."
+1. How do they go about narrowing down on the "Big Question"?
+2. How do they evaluate if the final content is "Finshot worthy"?
 
 > If you've found this article helpful, what do you think about sharing it with someone in your circle?
 >
