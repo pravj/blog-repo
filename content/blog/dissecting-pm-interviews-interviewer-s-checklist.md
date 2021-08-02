@@ -32,5 +32,7 @@ url = "/blog/product-manager-interview-checklist/"
     * Structured thinking
   * Good-to-have
   * Browny points
+    * Innovative thinking
   * Contextual
-* 
+    * Nudges needed to candidate during the session
+    * Articulating the thought-process and not jumping the fences
