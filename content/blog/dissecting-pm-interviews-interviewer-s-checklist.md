@@ -30,6 +30,7 @@ url = "/blog/product-manager-interview-checklist/"
 * Interviewer's checklist
   * Must-have / Red-flags
     * Structured thinking
+    * Articulating in a solutions-first manner
   * Good-to-have
   * Browny points
     * Innovative thinking
