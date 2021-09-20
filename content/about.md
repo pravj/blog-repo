@@ -23,19 +23,13 @@ I'm Pravendra Singh, passionate about solving real-life problems and building pr
 
 <p> <h1 class="social-me">
 
-<a title="Twitter" href="https://twitter.com/hackpravj"><i class="icon-twitter"></i></a>
-
-<a title="LinkedIn" href="https://www.linkedin.com/in/pravj"><i class="icon-linkedin"></i></a>
-
-<a title="Github" href="https://github.com/pravj"><i class="icon-github-circled"></i></a>
-
-<a title="Hacker News" href="https://news.ycombinator.com/user?id=pravj"><i class="icon-hacker-news"></i></a>
+<a title="Twitter" href="https://twitter.com/hackpravj"><i class="icon-twitter"></i></a><a title="LinkedIn" href="https://www.linkedin.com/in/pravj"><i class="icon-linkedin"></i></a><a title="Github" href="https://github.com/pravj"><i class="icon-github-circled"></i></a><a title="Hacker News" href="https://news.ycombinator.com/user?id=pravj"><i class="icon-hacker-news"></i></a>
 
 </h1></p>
 
 ### Artwork
 
-This section is no more left empty. 
+This section is no more left empty.
 
 #### The Muddy Turn
 
