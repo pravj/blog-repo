@@ -23,7 +23,7 @@ I'm Pravendra Singh, passionate about solving real-life problems and building pr
 
 <p> <h1 class="social-me">
 
-<a title="Twitter" href="[https://twitter.com/hackpravj](https://twitter.com/hackpravj "https://twitter.com/hackpravj")"><i class="icon-twitter"></i></a>
+<a title="Twitter" href="https://twitter.com/hackpravj"><i class="icon-twitter"></i></a>
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/pravj"><i class="icon-linkedin"></i></a>
 
@@ -35,7 +35,7 @@ I'm Pravendra Singh, passionate about solving real-life problems and building pr
 
 ### Artwork
 
-This section is no more left empty. Still, everything is art.
+This section is no more left empty. 
 
 #### The Muddy Turn
 
