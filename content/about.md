@@ -25,7 +25,7 @@ I'm Pravendra Singh, passionate about solving real-life problems and building pr
 
 <a title="Twitter" href="[https://twitter.com/hackpravj](https://twitter.com/hackpravj "https://twitter.com/hackpravj")"><i class="icon-twitter"></i></a>
 
-<a title="LinkedIn" href="[https://www.linkedin.com/in/pravj](https://www.linkedin.com/in/pravj "https://www.linkedin.com/in/pravj")"><i class="icon-linkedin"></i></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/pravj"><i class="icon-linkedin"></i></a>
 
 <a title="Github" href="https://github.com/pravj"><i class="icon-github-circled"></i></a>
 
