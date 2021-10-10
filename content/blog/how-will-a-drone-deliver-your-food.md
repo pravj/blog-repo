@@ -61,7 +61,7 @@ Work is already happening in this domain. Swiggy/Zomato and a few other entities
 
 ### Execution risks/challenges
 
-Now that we know it will bring a legit business advantage if we can get your food to travel at a higher speed, but how will this happen?
+Now that we know it will bring a legit business advantage if we can get your food to travel at a higher speed, let's think how will this happen?
 
 * You can’t continue to get Neeraj Chopra to throw your food because he will eventually have to prepare for the next Olympics.
 * Neither we can teleport the parcel, as there is no _public_ AWS API for it yet.
