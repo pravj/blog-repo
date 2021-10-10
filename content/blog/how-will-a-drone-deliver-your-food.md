@@ -13,9 +13,7 @@ The title looks like a good interview question. So let’s ask the right follow-
 
 Let’s list down the contributing factors and follow up from there.
 
-Have you ever been in a situation when you’re (hungry) about to place a food order and the application is showing you _40+ minutes to deliver_?
-
-It’s a complete turn-off.
+Have you ever been in a situation when you’re (hungry) about to place a food order and the application is showing you _40+ minutes to deliver_? It’s a complete turn-off.
 
 * You start to think of some other food item that will be delivered early.
 * You might even think of paying more if it can be delivered faster.
@@ -35,9 +33,13 @@ There are a lot of optimizations at work, though not all of them are focused on 
 
 After all, there is Physics and ground reality at play, affecting how fast your food is delivered.
 
-* Last-mile time = Distance(resturant, delivery-location) / Last-mile speed
+* Last-mile time = Distance(restaurant, delivery-location) / Last-mile speed
 
 To tackle the first factor, you are only shown restaurants close enough to you.
+
+Here is Swiggy celebrating their launch (circa, June 2021) that allows you to order from restaurants that are at a distance.
+
+* On a side note, _12 km away!_ isn't tempting enough, only if they showed me a famous restaurant I was missing out on.
 
 ![](/images/how-will-drone-deliver-food-order-distance-limitation.png)
 
