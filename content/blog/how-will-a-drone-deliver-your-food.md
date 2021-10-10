@@ -6,20 +6,17 @@ draft = true
 pageimage = ""
 tags = ["Product", "Design", "Experience", "Last-mile"]
 title = "How will a drone deliver your food?"
-url = "/blog/how-will-drone-deliver-food/"
+url = "/blog/how-will-drone-deliver-food-order/"
 
 +++
 > How will a drone deliver your food?
 
 This looks like a good interview question. So let’s ask the right follow-up question, _Why?_
 
-  
 Let’s list down the contributing factors and follow up from there.
 
-  
 Have you ever been in a situation when you’re (hungry) about to place a food order and the application is showing you _40+ minutes to deliver_?
 
-  
 It’s a complete turn-off.
 
 * You start to think of some other food item that will be delivered early.
@@ -31,7 +28,6 @@ You can break down your order delivery timing in the following segments ([refere
 
 * Food delivery Time = Max (first-mile time, food-preparation time) + Last-mile time
 
-  
 Food delivery companies are already doing a lot to deliver it faster for you.
 
 * They minimize the delay between _food getting prepared_ and _it getting picked up_ by ensuring the delivery partner/executive is already at the restaurant before it’s _prepared_.
@@ -39,12 +35,13 @@ Food delivery companies are already doing a lot to deliver it faster for you.
 
 There are a lot of optimizations at work, though not all of them are focused on _delivering food even faster for customers_ ([reference](https://bytes.swiggy.com/the-swiggy-delivery-challenge-part-two-f095930816e3)).
 
-  
 After all, there is Physics and ground reality at play, affecting how fast your food is delivered.
 
 * Last-mile time = Distance(resturant, delivery-location) / Last-mile speed
 
 To tackle the first factor, you are only shown restaurants close enough to you.
+
+![](/images/how-will-drone-deliver-food-order-distance-limitation.png)
 
 And if we consider the second factor in Last-mile speed, it comes down to how fast are the delivery partners/executives moving around?
 
@@ -65,5 +62,4 @@ So that customers like you and me can have that \[placeholder\] just when we thi
 
 _The Deliverator stands tall, your pie in thirty minutes or you can have it free, take the delivery car, file a class-action suit. ---- Snow Crash_
 
-  
 Work is already happening in this domain. Swiggy/Zomato and a few other entities have received approval to start testing _the way their drone will deliver your food_. ([reference](https://www.livemint.com/companies/news/food-delivery-in-india-via-drones-zomato-swiggy-dunzo-can-start-testing-11591253543250.html))
