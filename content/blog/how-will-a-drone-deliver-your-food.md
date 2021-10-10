@@ -124,7 +124,7 @@ Similar to the existing workflow, once the food is prepared, there will be two m
 
 **Last-mile to Last-last mile**
 
-* At least for a significant time (2 years), you shouldn’t assume a drone will ever come to your balcony. It will still be a delivery partner/executive, just that he/she will pick it from the nearest Last-mile facility.
+* At least for a significant time (2-3 years), you shouldn’t assume a drone will ever come to your balcony. It will still be a delivery partner/executive, just that he/she will pick it from the nearest Last-mile facility.
 * It will still be a delivery partner/executive, just that you will get your food faster.
 
 But when this happens, you will get your food faster, _that’s for sure._ Don’t forget to empathize with the bunch of people that worked in the background to make that happen.
