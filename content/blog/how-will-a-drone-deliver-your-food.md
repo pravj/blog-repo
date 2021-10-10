@@ -9,7 +9,7 @@ title = "How will a drone deliver your food?"
 url = "/blog/how-will-drone-deliver-food-order/"
 
 +++
-The title looks like a good interview question. So let’s ask the right follow-up question, _Why?_
+The title looks like a good interview question. So here is the right follow-up question, _Why?_
 
 Let’s list down the contributing factors and follow up from there.
 
@@ -54,6 +54,8 @@ Ultimately, Swiggy/Zomato wants to expand the **Distance(restaurant, delivery-lo
 So that customers like you and me can have that \[_insert your favorite food item here_\] just as we think about it.
 
 > _The Deliverator stands tall, your pie in thirty minutes or you can have it free, take the delivery car, file a class-action suit. --- Snow Crash_
+
+And if they can find a solution that ensures the Last-mile time isn't increasing as they increase the distance, it's a win-win. Drones fit somewhere here.
 
 Work is already happening in this domain. Swiggy/Zomato and a few other entities have received approval to start testing _the way their drone will deliver your food_. ([reference](https://www.livemint.com/companies/news/food-delivery-in-india-via-drones-zomato-swiggy-dunzo-can-start-testing-11591253543250.html))
 
