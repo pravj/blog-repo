@@ -125,6 +125,8 @@ Similar to the existing workflow, once the food is prepared, there will be two m
 **Last-mile to Last-last mile**
 
 * At least for a significant time (2-3 years), you shouldn’t assume a drone will ever come to your balcony. It will still be a delivery partner/executive, just that he/she will pick it from the nearest Last-mile facility.
-* It will still be a delivery partner/executive, just that you will get your food faster.
+* But when this happens, you will get your food faster, _that’s for sure._ Don’t forget to empathize with the bunch of people that worked in the background to make that happen.
 
-But when this happens, you will get your food faster, _that’s for sure._ Don’t forget to empathize with the bunch of people that worked in the background to make that happen.
+Overall, it seems an interesting and challenging problem to solve. And as the saying goes, _if you can solve it in India, you can solve it anywhere._
+
+Looking forward to the day where there is an option available if the normal delivery would take 40 minutes, even if it's Neeraj Chopra throwing my food.
