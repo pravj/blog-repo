@@ -68,6 +68,8 @@ Now that we know it will bring a legit business advantage if we can get your foo
 
 There are many variables if we consider drone delivery as an option and the associated risks/challenges.
 
+![](/images/how-will-drone-deliver-food-order-execution-risk.png)
+
 **First-mile conditions**
 
 * Restaurants wouldn’t want to see a lot of drones on their premises instead of visitors for dine-in. There is already discrimination against delivery partners/executives at restaurants, which shouldn’t be encouraged.
