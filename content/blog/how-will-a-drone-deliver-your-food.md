@@ -129,4 +129,4 @@ Similar to the existing workflow, once the food is prepared, there will be two m
 
 Overall, it seems an interesting and challenging problem to solve. And as the saying goes, _if you can solve it in India, you can solve it anywhere._
 
-Looking forward to the day where there is an option available if the normal delivery would take 40 minutes, even if it's Neeraj Chopra throwing my food.
+Looking forward to the day where the normal order would take 40 minutes but there is a faster option available, even if it's Neeraj Chopra throwing my food.
