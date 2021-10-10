@@ -9,9 +9,7 @@ title = "How will a drone deliver your food?"
 url = "/blog/how-will-drone-deliver-food-order/"
 
 +++
-> How will a drone deliver your food?
-
-This looks like a good interview question. So let’s ask the right follow-up question, _Why?_
+The title looks like a good interview question. So let’s ask the right follow-up question, _Why?_
 
 Let’s list down the contributing factors and follow up from there.
 
@@ -22,7 +20,7 @@ It’s a complete turn-off.
 * You start to think of some other food item that will be delivered early.
 * You might even think of paying more if it can be delivered faster.
 
-#### Available options and their limitations
+### Available options and their limitations
 
 You can break down your order delivery timing in the following segments ([reference](https://bytes.swiggy.com/the-swiggy-delivery-challenge-part-one-6a2abb4f82f6)).
 
