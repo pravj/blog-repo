@@ -105,28 +105,26 @@ Overall, the drone-delivery operations will follow a phase-wise approach, moving
 
 As covered earlier, drone delivery is just an option, _you just want the food delivered faster._
 
-Similar to the existing workflow, once the food is prepared, there will be two lags to the journey.
+Similar to the existing workflow, once the food is prepared, there will be two major lags to the journey.
 
-* Restaurant to Last-mile (getting food out of the restaurant and as close to you as possible)
-* Last-mile to Last-last mile (navigating inside your premises and final delivery)
+![](/images/how-will-drone-deliver-food-order-delivery-lags.png)
 
-Restaurant to Last-mile (pre-flight)
+**Restaurant to Last-mile (pre-flight)**
 
 * Unless there is a dedicated space for setting up and launching the drones, your food might get shipped first to a place where it can be mounted on a drone.
 
-Restaurant to Last-mile (in-flight)
+**Restaurant to Last-mile (in-flight)**
 
 * This might or might not have a human-in-the-loop (someone operating a drone from home), based on the flight route.
 
-Restaurant to Last-mile (post-flight)
+**Restaurant to Last-mile (post-flight)**
 
 * If you live in a posh society, the Last-mile can be your own map address.
 * Otherwise, it can be a special facility (closer to your location) operated by Swiggy/Zomato.
 
-Last-mile to Last-last mile
+**Last-mile to Last-last mile**
 
 * At least for a significant time (2 years), you shouldn’t assume a drone will ever come to your balcony. It will still be a delivery partner/executive, just that he/she will pick it from the nearest Last-mile facility.
 * It will still be a delivery partner/executive, just that you will get your food faster.
 
-  
 But when this happens, you will get your food faster, _that’s for sure._ Don’t forget to empathize with the bunch of people that worked in the background to make that happen.
