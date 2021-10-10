@@ -45,6 +45,8 @@ On a side note, _12 km away!_ isn't tempting enough, only if they showed me a fa
 
 And if we consider the second factor in Last-mile speed, it comes down to how fast are the delivery partners/executives moving around? Let's visit some of the available options.
 
+![](/images/how-will-drone-deliver-food-order-option-comparison.png)
+
 How fast the traffic moves depends not just on the vehicle, but where you live. In Bangalore, the Average Commute Speed ranges between 18-21 km/hr.
 
 Ultimately, Swiggy/Zomato wants to expand the Distance(restaurant, delivery-location) so you’ve more options to choose from (eventually leading to more orders or higher average order size), but they also want to increase the Last-mile speed.
