@@ -22,7 +22,7 @@ Have you ever been in a situation when you’re (hungry) about to place a food o
 
 You can break down your order delivery timing in the following segments ([reference](https://bytes.swiggy.com/the-swiggy-delivery-challenge-part-one-6a2abb4f82f6)).
 
-* Food delivery Time = Max (first-mile time, food-preparation time) + Last-mile time
+![](/images/how-will-drone-deliver-food-order-food-delivery-time.png)
 
 Food delivery companies are already doing a lot to deliver it faster for you.
 
@@ -33,9 +33,9 @@ There are a lot of optimizations at work, though not all of them are focused on 
 
 After all, there is Physics and ground reality at play, affecting how fast your food is delivered.
 
-* Last-mile time = Distance(restaurant, delivery-location) / Last-mile speed
+![](/images/how-will-drone-deliver-food-order-last-mile-time.png)
 
-To tackle the first factor, you are only shown restaurants close enough to you.
+To tackle the first factor (_Distance_), you are only shown restaurants close enough to you.
 
 Here is Swiggy celebrating their launch (circa, June 2021) that allows you to order from restaurants that are at a distance.
 
