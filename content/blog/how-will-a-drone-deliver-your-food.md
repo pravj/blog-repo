@@ -43,7 +43,7 @@ Here is Swiggy celebrating their launch (circa, June 2021) that allows you to or
 
 On a side note, _12 km away!_ isn't tempting enough, only if they showed me a famous restaurant I was missing out on.
 
-And if we consider the second factor in Last-mile speed, it comes down to how fast are the delivery partners/executives moving around? Let's visit some of the available options.
+And if we consider the second factor in Last-mile speed, it comes down to how fast is your food (and the delivery partners/executives are) moving around? Let's visit some of the available options.
 
 ![](/images/how-will-drone-deliver-food-order-option-comparison.png)
 
