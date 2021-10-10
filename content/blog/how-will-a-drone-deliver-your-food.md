@@ -47,12 +47,12 @@ And if we consider the second factor in Last-mile speed, it comes down to how fa
 
 ![](/images/how-will-drone-deliver-food-order-option-comparison.png)
 
-How fast the traffic moves depends not just on the vehicle, but where you live. In Bangalore, the Average Commute Speed ranges between 18-21 km/hr.
+How fast the traffic moves depends not just on the vehicle, but where you live. In Bangalore, the Average Commute Speed ranges between 18-21 km/hr ([reference](https://timesofindia.indiatimes.com/city/bengaluru/at-21-2kmph-bluru-traffic-speed-up-20-in-2-years/articleshow/73000557.cms "Average Commute Speed")).
 
-Ultimately, Swiggy/Zomato wants to expand the Distance(restaurant, delivery-location) so you’ve more options to choose from (eventually leading to more orders or higher average order size), but they also want to increase the Last-mile speed.
+Ultimately, Swiggy/Zomato wants to expand the **Distance(restaurant, delivery-location)** so you’ve more options to choose from (eventually leading to more orders or higher average order size), but they also want to increase the Last-mile speed.
 
-So that customers like you and me can have that \[placeholder\] just when we think about it.
+So that customers like you and me can have that \[_insert your favorite food item here_\] just as we think about it.
 
-_The Deliverator stands tall, your pie in thirty minutes or you can have it free, take the delivery car, file a class-action suit. ---- Snow Crash_
+> _The Deliverator stands tall, your pie in thirty minutes or you can have it free, take the delivery car, file a class-action suit. --- Snow Crash_
 
 Work is already happening in this domain. Swiggy/Zomato and a few other entities have received approval to start testing _the way their drone will deliver your food_. ([reference](https://www.livemint.com/companies/news/food-delivery-in-india-via-drones-zomato-swiggy-dunzo-can-start-testing-11591253543250.html))
