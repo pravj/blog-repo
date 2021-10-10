@@ -111,7 +111,7 @@ Similar to the existing workflow, once the food is prepared, there will be two m
 
 **Restaurant to Last-mile (pre-flight)**
 
-* Unless there is a dedicated space for setting up and launching the drones, your food might get shipped first to a place where it can be mounted on a drone.
+* Unless there is a dedicated space (at the restaurant) for setting up and launching the drones, your food might get shipped first to a place where it can be mounted on a drone.
 
 **Restaurant to Last-mile (in-flight)**
 
@@ -119,7 +119,7 @@ Similar to the existing workflow, once the food is prepared, there will be two m
 
 **Restaurant to Last-mile (post-flight)**
 
-* If you live in a posh society, the Last-mile can be your own map address.
+* If you live in a posh society, the Last-mile can be your own map address with a dedicated zone for Swiggy/Zomato drones to (locate and) land.
 * Otherwise, it can be a special facility (closer to your location) operated by Swiggy/Zomato.
 
 **Last-mile to Last-last mile**
