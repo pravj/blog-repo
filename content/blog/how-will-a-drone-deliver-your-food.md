@@ -43,16 +43,7 @@ Here is Swiggy celebrating their launch (circa, June 2021) that allows you to or
 
 On a side note, _12 km away!_ isn't tempting enough, only if they showed me a famous restaurant I was missing out on.
 
-And if we consider the second factor in Last-mile speed, it comes down to how fast are the delivery partners/executives moving around?
-
-There are quite some options available that can help them move around. Let’s have a look.
-
-* Speed: 5 km/hr (walking on foot like it’s 1968)
-* Speed: 10-15 km/hr (using a bicycle or electric bike)
-* Speed: 15-20 km/hr (using a bike or electric bike, speed capped based on the city)
-* Speed: 50-90 km/hr (using a drone, speed capped as per regulations)
-* Speed: 100-120 km/hr (getting Neeraj Chopra to throw the food)
-* Speed: 1.079e+9 km/hr (teleporting or making it at home)
+And if we consider the second factor in Last-mile speed, it comes down to how fast are the delivery partners/executives moving around? Let's visit some of the available options.
 
 How fast the traffic moves depends not just on the vehicle, but where you live. In Bangalore, the Average Commute Speed ranges between 18-21 km/hr.
 
