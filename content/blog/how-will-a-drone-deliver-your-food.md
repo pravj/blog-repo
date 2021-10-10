@@ -1,9 +1,9 @@
 +++
 aliases = []
-date = 2021-10-10T06:30:00Z
+date = 2021-10-10T11:30:00Z
 description = "Visualising the experience that will set a new benchmark in how you will get your food delivered faster."
 draft = true
-pageimage = ""
+pageimage = "/images/how-will-drone-deliver-food-order-option-comparison.png"
 tags = ["Product", "Design", "Experience", "Last-mile"]
 title = "How will a drone deliver your food?"
 url = "/blog/how-will-drone-deliver-food-order/"
