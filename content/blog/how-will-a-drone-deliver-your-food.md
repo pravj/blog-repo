@@ -56,3 +56,47 @@ So that customers like you and me can have that \[_insert your favorite food ite
 > _The Deliverator stands tall, your pie in thirty minutes or you can have it free, take the delivery car, file a class-action suit. --- Snow Crash_
 
 Work is already happening in this domain. Swiggy/Zomato and a few other entities have received approval to start testing _the way their drone will deliver your food_. ([reference](https://www.livemint.com/companies/news/food-delivery-in-india-via-drones-zomato-swiggy-dunzo-can-start-testing-11591253543250.html))
+
+### Execution risks/challenges
+
+Now that we know it will bring a legit business advantage if we can get your food to travel at a higher speed, but how will this happen?
+
+* You can’t continue to get Neeraj Chopra to throw your food because he will eventually have to prepare for the next Olympics.
+* Neither we can teleport the parcel, as there is no _public_ AWS API for it yet.
+
+There are many variables if we consider drone delivery as an option.
+
+**First-mile conditions**
+
+* Restaurants wouldn’t want to see a lot of drones on their premises instead of visitors for dine-in. There is already discrimination against delivery partners/executives at restaurants, which shouldn’t be encouraged.
+* Restaurants will not be able to maintain a dedicated space for drones.
+* This might push Swiggy/Zomato to get cloud kitchens to adopt the new delivery method before it goes mainstream to all the other restaurants.
+
+  
+**Last-last mile conditions**
+
+* Your Last-last mile conditions aren’t that good if you have to help navigate the delivery partner/executive every time you order.
+  * _Yes! The same Himalayan shop building, near ICICI bank_
+  * _No! The corner building, can you see Sri Lakshmi apartment?_
+* And if you don’t have to guide them for every order, these conditions are all sorted for you (and I need your contact details).
+
+  
+**Vehicle safety**
+
+* As a product person working on drone delivery, I do not want to lose more than 3 drones every 1000 orders, so that I can get my full monthly salary.
+* You will have to prevent drones from getting stolen or getting damaged.
+
+  
+**Public safety**
+
+* Similarly, you wouldn’t want to hit someone when the order is being delivered.
+* You and your drone will have to spend the night in jail and the food will get cold.
+
+  
+**Government regulations**
+
+There are many rules and regulations that you will have to adhere to as you start to utilize this new delivery method. ([reference](https://digitalsky.dgca.gov.in/assets/files/UasRules.pdf))
+
+### Possible workflow
+
+Overall, the drone-delivery operations will follow a phase-wise approach, moving from lesser execution risk to higher execution risk (_considering the regulations are manageable_).
