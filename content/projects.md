@@ -5,17 +5,7 @@ nopaging = true
 title = "Bookshelf"
 
 +++
-<div class="custom-quote">
-
-  <h1>
-
-    <i class="icon-quote-left"></i>
-
-  </h1>
-
-  <p>A metaverse version of my bookshelf, listing the virtual and physical books.</p>
-
-</div>
+<div class="custom-quote"><h1><i class="icon-quote-left"></i></h1><p>A metaverse version of my bookshelf, listing the virtual and physical books.</p></div>
 
 Everything Economics
 
