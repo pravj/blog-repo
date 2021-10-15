@@ -7,7 +7,7 @@ title = "Bookshelf"
 +++
 <div class="custom-quote"><h1><i class="icon-quote-left"></i></h1><p>My _incomplete_ bookshelf, curated in no particular order <a href="[https://www.goodreads.com/user/show/97420383-pravendra-singh](https://www.goodreads.com/user/show/97420383-pravendra-singh "https://www.goodreads.com/user/show/97420383-pravendra-singh")" target="_blank">(Goodreads)</a></p></div>
 
-</br></br>
+</br>
 
 Everything Economics
 
