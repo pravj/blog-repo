@@ -5,15 +5,7 @@ nopaging = true
 title = "Bookshelf"
 
 +++
-<div class="custom-quote"><h1><i class="icon-quote-left"></i></h1><p>My _incomplete_ bookshelf, curated in no particular order <a href="[https://www.goodreads.com/user/show/97420383-pravendra-singh](https://www.goodreads.com/user/show/97420383-pravendra-singh "https://www.goodreads.com/user/show/97420383-pravendra-singh")" target="_blank">(Goodreads)</a></p></div>
-
-</br>
-
-Everything Economics
-
-* [The Economics of Religion in India](https://www.goodreads.com/book/show/38502108-the-economics-of-religion-in-india "The Economics of Religion in India")
-* [Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.goodreads.com/book/show/20763722-why-information-grows)
-* [Nudge: Improving Decisions About Health, Wealth and Happiness](https://www.goodreads.com/book/show/6359469-nudge)
+<div class="custom-quote"><h1><i class="icon-quote-left"></i></h1><p>Some of the picks from the bookshelf that I've read, curated in no particular order.<a href="[https://www.goodreads.com/user/show/97420383-pravendra-singh](https://www.goodreads.com/user/show/97420383-pravendra-singh "https://www.goodreads.com/user/show/97420383-pravendra-singh")" target="_blank">(Goodreads)</a></p></div>
 
 </br>
 
@@ -49,6 +41,14 @@ Artificial Intelligence / Crowdsourcing
 
 * [Machine, Platform, Crowd: Harnessing Our Digital Future](https://www.goodreads.com/book/show/38212111-machine-platform-crowd)
 * [Automating the News: How Algorithms Are Rewriting the Media](https://www.goodreads.com/book/show/42525003-automating-the-news)
+
+</br>
+
+Everything Economics
+
+* [The Economics of Religion in India](https://www.goodreads.com/book/show/38502108-the-economics-of-religion-in-india "The Economics of Religion in India")
+* [Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.goodreads.com/book/show/20763722-why-information-grows)
+* [Nudge: Improving Decisions About Health, Wealth and Happiness](https://www.goodreads.com/book/show/6359469-nudge)
 
 </br>
 
