@@ -5,8 +5,6 @@ nopaging = true
 title = "Bookshelf"
 
 +++
-\+++ nocomment = true nodate = true nopaging = true title = "Bookshelf" +++
-
 <div class="custom-quote">
 
   <h1>
