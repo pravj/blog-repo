@@ -5,7 +5,7 @@ nopaging = true
 title = "Bookshelf"
 
 +++
-<div class="custom-quote"><h1><i class="icon-quote-left"></i></h1><p>My bookshelf, curated in no particular order and missing a lot of books ([Goodreads](https://www.goodreads.com/user/show/97420383-pravendra-singh "Goodreads: Pravendra Singh"))</p></div>
+<div class="custom-quote"><h1><i class="icon-quote-left"></i></h1><p>My bookshelf, curated in no particular order and missing a lot of books <a href="[https://www.goodreads.com/user/show/97420383-pravendra-singh](https://www.goodreads.com/user/show/97420383-pravendra-singh "https://www.goodreads.com/user/show/97420383-pravendra-singh")" target="_blank">Goodreads</a></p></div>
 
 </br></br>
 
