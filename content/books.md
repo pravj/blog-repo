@@ -86,6 +86,7 @@ Biographies & Memoirs
 
 Literary Fiction
 
+* [Frankenstein in Baghdad](https://www.goodreads.com/book/show/30780005-frankenstein-in-baghdad)
 * [Jokes for the Gunmen](https://www.goodreads.com/book/show/41068101-jokes-for-the-gunmen "Jokes for the Gunmen")
 * [The Blue Mountain](https://www.goodreads.com/book/show/179443.The_Blue_Mountain "The Blue Mountain")
 * [Suddenly, a Knock on the Door](https://www.goodreads.com/book/show/12308081-suddenly-a-knock-on-the-door "Suddenly, a Knock on the Door")
