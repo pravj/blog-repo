@@ -11,6 +11,8 @@ title = "Bookshelf"
 
 ![Pravendra's bookshelf (circa, October 2021)](/images/pravj-bookshelf.jpg "Pravendra's bookshelf (circa, October 2021)")
 
+<h6>If you can see, no shame in admitting that I did those paintings.</h6>
+
 </br>
 
 Building a Company
