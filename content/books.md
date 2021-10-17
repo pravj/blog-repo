@@ -9,6 +9,10 @@ title = "Bookshelf"
 
 </br>
 
+![Pravendra's bookshelf (circa, October 2021)](/images/pravj-bookshelf.jpg "Pravendra's bookshelf (circa, October 2021)")
+
+</br>
+
 Building a Company
 
 * [Who: The A Method for Hiring]()
