@@ -43,7 +43,7 @@ Here is a framework I've been practicing to increase the effectiveness, that inv
 * Instead of asking this as a leading question, you can start with:
   * How can we make it even better?
 
-### Question-2: What areas did you completely ignore while working on it?
+### Question-2: What areas did you ignore while working on it?
 
 * It's aimed to understand the areas of the problem statement that weren't addressed and can attack us going forward.
 * Instead of asking this as a leading question, you can start with:
