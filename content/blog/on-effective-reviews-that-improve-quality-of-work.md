@@ -4,7 +4,7 @@ date = 2022-03-20T15:30:00Z
 description = "A framework to improve the effectiveness of reviews, and eventually improving the quality of work."
 draft = true
 pageimage = ""
-tags = ["Product", "Product-Management", "Team", "Culture"]
+tags = ["Product", "Team", "Culture"]
 title = "On Effective Reviews that Improve Quality of Work"
 url = ""
 
