@@ -36,17 +36,17 @@ Here is a framework I've been practicing to increase the effectiveness, that inv
 * Here, it's assumed that the main work is (or will get) done with the-progress-that's-being-reviewed and we're discussing how to get to a better level from here.
 * Also, it isn't recommended to ask them directly as a leading question. Doing so might not get the all right answers.
 
-**Question-1: What do you not like about the approach?**
+### Question-1: What do you not like about the approach?
 
 * As the IKEA effect goes, we are frequently biased towards our own work and it becomes important to acknowledge/prevent the bias.
 * This confronting question is designed to \[over a period\] fine-tune the self-assessment muscle of the creator.
-* Instead of asking this as leading question, you can start with:
+* Instead of asking this as a leading question, you can start with:
   * How can we make it even better?
 
 **Question-2: What areas did you completely ignore while working on it?**
 
 * It's aimed to understand the areas of the problem statement that weren't addressed and can attack us going forward.
-* Instead of asking this as leading question, you can start with:
+* Instead of asking this as a leading question, you can start with:
   * What would you do differently if given more time?
 
 **Question-3: What constraints or assumptions did you work with?**
