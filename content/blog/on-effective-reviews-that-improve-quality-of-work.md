@@ -54,7 +54,12 @@ Here is a framework I've been practicing to increase the effectiveness, that inv
 * It's helpful to acknowledge that we're always in a constrained environment. It might be due to the timelines, dependencies, or many other factors.
 * Identifying the constraints helps you get better at recognizing the [edge-cases](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze "The idea maze for AI startups").
 
-As a fair-usage policy and to get better at it
+***
 
-* Try not to create an analysis-paralysis situation.
-* Ask (yourself) if you were able to add value at the end of the review.
+In summary, ask the following three questions to ensure you're adding value at the end of your review.
+
+1. What do you not like about the approach?
+2. What areas did you ignore while working on it?
+3. What constraints/assumptions did you work with?
+
+It's recommended not to create an analysis-paralysis situation.
