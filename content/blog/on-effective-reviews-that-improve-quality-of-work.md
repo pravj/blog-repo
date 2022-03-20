@@ -56,10 +56,8 @@ Here is a framework I've been practicing to increase the effectiveness, that inv
 
 ***
 
-In summary, ask the following three questions to ensure you're adding value at the end of your review.
+In summary, ask the following three questions to ensure you're adding value at the end of your review, without creating an analysis-paralysis situation.
 
 1. What do you not like about the approach?
 2. What areas did you ignore while working on it?
 3. What constraints/assumptions did you work with?
-
-It's recommended not to create an analysis-paralysis situation.
