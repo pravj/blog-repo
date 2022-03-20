@@ -33,7 +33,7 @@ Imagine one of the following scenarios as you find fit
 
 Here is a framework I've been practicing to increase the effectiveness, that involves **asking the** **following three** **questions** **to the creator**.
 
-* Here, it's assumed that the main work is (or will get) done with the-progress-that's-being-reviewed and we're discussing how to get to a better level from here.
+* Here, it's assumed that the main work is done (or will get done) with the-progress-that's-being-reviewed and we're discussing how to get to a better level from here.
 * Also, it isn't recommended to ask them directly as a leading question. Doing so might not get the all right answers.
 
 ### Question-1: What do you not like about the approach?
