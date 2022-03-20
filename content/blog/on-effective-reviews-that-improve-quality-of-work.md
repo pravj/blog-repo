@@ -23,7 +23,7 @@ But, how does it all connect with reviewing someone's work?
 
 If done right, they increase the mutual alignment towards the problem statement and provide a clear direction to strive for further excellence.
 
-**How to review effectively?**
+#### How to review effectively?
 
 Imagine one of the following scenarios as you find fit
 
@@ -52,7 +52,7 @@ Here is a framework I've been practicing to increase the effectiveness, that inv
 **Question-3: What constraints or assumptions did you work with?**
 
 * It's helpful to acknowledge that we're always in a constrained environment. It might be due to the timelines, dependencies, or many other factors.
-* Identifying the constraints helps you get better at recognizing the [edge-cases](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze "The idea maze for AI startups"). 
+* Identifying the constraints helps you get better at recognizing the [edge-cases](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze "The idea maze for AI startups").
 
 As a fair-usage policy and to get better at it
 
