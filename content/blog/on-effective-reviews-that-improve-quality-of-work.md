@@ -49,7 +49,7 @@ Here is a framework I've been practicing to increase the effectiveness, that inv
 * Instead of asking this as a leading question, you can start with:
   * What would you do differently if given more time?
 
-### Question-3: What constraints or assumptions did you work with?
+### Question-3: What constraints/assumptions did you work with?
 
 * It's helpful to acknowledge that we're always in a constrained environment. It might be due to the timelines, dependencies, or many other factors.
 * Identifying the constraints helps you get better at recognizing the [edge-cases](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze "The idea maze for AI startups").
