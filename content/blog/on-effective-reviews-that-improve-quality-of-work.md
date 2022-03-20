@@ -23,7 +23,7 @@ But, how does it all connect with reviewing someone's work?
 
 If done right, they increase the mutual alignment towards the problem statement and provide a clear direction to strive for further excellence.
 
-#### How to review effectively?
+### How to review effectively?
 
 Imagine one of the following scenarios as you find fit
 
@@ -36,7 +36,7 @@ Here is a framework I've been practicing to increase the effectiveness, that inv
 * Here, it's assumed that the main work is (or will get) done with the-progress-that's-being-reviewed and we're discussing how to get to a better level from here.
 * Also, it isn't recommended to ask them directly as a leading question. Doing so might not get the all right answers.
 
-### Question-1: What do you not like about the approach?
+**Question-1: What do you not like about the approach?**
 
 * As the IKEA effect goes, we are frequently biased towards our own work and it becomes important to acknowledge/prevent the bias.
 * This confronting question is designed to \[over a period\] fine-tune the self-assessment muscle of the creator.
