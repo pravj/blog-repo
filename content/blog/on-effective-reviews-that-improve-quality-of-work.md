@@ -9,6 +9,8 @@ title = "[Draft] On Effective Reviews that Improve Quality of Work"
 url = ""
 
 +++
+> FYI, this is a draft post, published to get it reviewed.
+
 There is a new (2022) Netflix documentary on Boeing, "Downfall: The Case Against Boeing," have you seen it?
 
 It looks into the events throughout the history of the company that led to the two crashes of 737 MAX aircraft, occurring within a short time span.
