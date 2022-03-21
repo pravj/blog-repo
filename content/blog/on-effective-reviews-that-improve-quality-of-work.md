@@ -9,7 +9,7 @@ title = "[Draft] On Effective Reviews that Improve Quality of Work"
 url = ""
 
 +++
-> FYI, this is a draft post, published to get it reviewed.
+> FYI, this is a draft post; published to get it reviewed. If you found this via Skit Slack, leave your feedback/comments in the thread.
 
 There is a new (2022) Netflix documentary on Boeing, "Downfall: The Case Against Boeing," have you seen it?
 
