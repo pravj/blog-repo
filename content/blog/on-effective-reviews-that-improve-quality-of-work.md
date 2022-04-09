@@ -10,7 +10,7 @@ url = ""
 +++
 > FYI, this is a draft post; published for review purposes.
 >
-> If you found this via Skit Slack, leave your feedback/comments in the thread..
+> If you found this via Skit Slack, leave your feedback/comments in the thread...
 
 There is a new (2022) Netflix documentary on Boeing, "Downfall: The Case Against Boeing," have you seen it?
 
